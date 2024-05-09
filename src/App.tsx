@@ -1,10 +1,5 @@
-import React from 'react'
 
-interface Props {
-  title?: string,
-}
-
-export default function App(props: Props) {
+export default function App() {
   return (
     <div>App</div>
   )
