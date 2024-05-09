@@ -17,7 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 
           <Route index element={<div>Main</div>} />
           <Route path='products' element={<div>Products</div>} />
-          <Route path='products/asd/asd' element={<div>asdasd</div>} />
+          <Route path='products/asd/asd' element={<div>asdassd</div>} />
         </Route>
       </Routes>
     </BrowserRouter>
